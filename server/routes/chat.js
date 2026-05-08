@@ -16,7 +16,7 @@ router.post('/', authMiddleware, async (req, res) => {
 
     // Initialize Gemini model
     const model = genAI.getGenerativeModel({
-      model: 'gemini-2.0-flash-lite',          // free tier model
+      model: 'gemini-2.5-flash',          // free tier model
       systemInstruction: systemPrompt,    // same system prompt, no changes needed
     });
 
