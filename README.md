@@ -16,7 +16,6 @@ An AI-powered language learning web application that helps users practice and im
 - [Running Locally](#running-locally)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
