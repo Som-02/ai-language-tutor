@@ -143,8 +143,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
----
-
 <div align="center">
   Made with ❤️ by <a href="https://github.com/Som-02">Somnath</a>
 </div>
